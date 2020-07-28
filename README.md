@@ -5,16 +5,16 @@
 ## - 📫 How to reach me:
 
 <a href="https://twitter.com/jorgelisapa">
-  <img align="left" alt="Jorgelisapa Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jorgelisapa Twitter" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jorgelisapa/">
-  <img align="left" alt="Jorgelisapa Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Jorgelisapa Linkdein" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Jorgelisapa">
-  <img align="left" alt="Jorgelisapa Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Jorgelisapa Github" target="_blank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://gitlab.com/Jorgelisapa">
-  <img align="left" alt="Jorgelisapa Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Font_Awesome_5_brands_gitlab.svg/512px-Font_Awesome_5_brands_gitlab.svg.png" />
+  <img align="left" alt="Jorgelisapa Github" target="_blank" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Font_Awesome_5_brands_gitlab.svg/512px-Font_Awesome_5_brands_gitlab.svg.png" />
 </a>
 
 <br />
